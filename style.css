@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    
+}
+img{
+    height: 200px;
+    border-radius: 50px;
+}
+hr{
+    height:2px;
+   background-color: black;
+}
+table{
+  padding: 5px;
+
+}
